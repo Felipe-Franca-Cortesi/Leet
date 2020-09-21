@@ -1,2 +1,2 @@
 # Leet
-Tradutor simples para língua Leet Speak
+[console: Leet] Faça um tradutor simples para a linguagem Leet Speak.
